@@ -4,7 +4,7 @@ Passo a passo:
   (2) identificar quais são as saídas de dados (informações que o nosso programa / algoritmo irá apresentar para o usuário); e
   (3) Realizar o processamento (pensar em como a entrada de dados precisa ser processada para emitir a saída desejada).
 
-Q1 - Escreva um algoritmo usando linguagem natural que calcule a soma de dois números inteiros.
+Q1 - Escreva um algoritmo usando linguagem natural que calcule a subitração de dois números inteiros.
 
     Passo a passo: 
     (1) Entrada: dois números inteiros.
@@ -58,7 +58,7 @@ Passo a passo:
   (2) identificar quais são as saídas de dados (informações que o nosso programa / algoritmo irá apresentar para o usuário); e
   (3) Realizar o processamento (pensar em como a entrada de dados precisa ser processada para emitir a saída desejada).
 
-Q1 - Escreva um algoritmo usando linguagem natural que calcule a soma de dois números inteiros.
+Q1 - Escreva um algoritmo usando linguagem natural que calcule a subitração de dois números inteiros.
 
     Passo a passo: 
     (1) Entrada: dois números inteiros.
